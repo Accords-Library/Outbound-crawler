@@ -1,0 +1,7 @@
+{
+  "startingPage": "https://example.com",
+  "domain": "example.com",
+  "excludes": [
+    "example.com/pages/to/exclude"
+  ]
+}
